@@ -9,7 +9,7 @@ import java.io.ObjectOutputStream;
 public class Serial 
 {
 	int rollNo=10;
-	String studentName="varun";
+	String studentName="vaas";
 
 	public static void main(String[] args) 
 	{
